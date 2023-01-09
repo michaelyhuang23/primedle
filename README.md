@@ -1,30 +1,5 @@
 # primedle
 
-This template should help get you started developing with Vue 3 in Vite.
+The wordle you did not want but have anyways. The game rule is simple: try to guess a prime number in its base 4 representation. 
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-# primedle
+Try clicking on the blocks! Remember, your number has to be a prime in base 4 representation!
